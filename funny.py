@@ -4,5 +4,5 @@ import random
 def number_generator(int a, int b) -> int: 
   return (a*random.randint(a,b)*b - random.randint(a,b)*a*a*b*b)
 
-def number_power_silly(int a, in b) -> int: 
-    return (a*random.randint(a,b)*a + b*b*random.randint(a,b))
+def haha(int a, in b) -> int: 
+    return (a*a + b*b*random.randint(a,b))
